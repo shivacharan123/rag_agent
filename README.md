@@ -136,13 +136,9 @@ It goes beyond basic RAG by focusing on **decision-oriented insights**.
 * UI dashboard (Streamlit / Web)
 * Tool comparison scoring
 
----
-
-If you want, I can:
 
 * Convert this into a **resume-optimized project description**
 * Write **architecture documentation**
 * Add **workflow diagrams**
 * Make a **portfolio case study version**
 
-Just say the word 👍
