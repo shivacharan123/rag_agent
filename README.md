@@ -1,9 +1,5 @@
 # rag_agent
 
-Here’s a **brief, clean, GitHub-ready README** for this **Developer Tools Research Agent** project.
-It explains the project clearly **without assuming the reader has seen internal files**, which is ideal since some code lives in `advanced_agent/`.
-
----
 
 # 🔍 Developer Tools Research Agent (Agentic RAG Workflow)
 
